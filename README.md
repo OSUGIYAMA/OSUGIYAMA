@@ -1,6 +1,8 @@
-- @OSUGIYAMA
-- Front-end developer for "Bubble-ポケットに大学生活を。" (social media platform only for college students)
-<!---
-OSUGIYAMA/OSUGIYAMA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi 👋
+
+I'm interested in using data and AI to better understand politics, governance, and international affairs.
+
+- 🎓 Studying international relations and area studies
+- 🔭 Currently exploring: computational approaches to policy research, democracy in the age of AI
+- 📰 Publisher of a daily newsletter that uses fully automated Python pipelines to track and analyze political developments — 22K+ subscribers across 50 states and 100 countries
+- 🛠️ Past work: front-end development for a social platform aimed at university students
